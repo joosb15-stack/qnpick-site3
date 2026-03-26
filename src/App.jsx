@@ -64,7 +64,8 @@ const PRODUCTS = [
     price: '3만~6만원대',
     reason: '집에서 가장 체감이 큰 실전형 추천템',
     tags: ['집', '실용', '깔끔'],
-    image: 'https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=1200&q=80',
+    image:
+      'https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=1200&q=80',
     link: 'https://partners.coupang.com/',
   },
   {
@@ -74,7 +75,8 @@ const PRODUCTS = [
     price: '2만~5만원대',
     reason: '운전할 때 바로 체감되는 인기 실용템',
     tags: ['차', '편의', '실사용'],
-    image: 'https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80',
+    image:
+      'https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80',
     link: 'https://partners.coupang.com/',
   },
   {
@@ -84,7 +86,8 @@ const PRODUCTS = [
     price: '1만~4만원대',
     reason: '반응 좋고 실패 확률이 낮은 선물용 추천',
     tags: ['선물', '센스', '인기'],
-    image: 'https://images.unsplash.com/photo-1513885535751-8b9238bd345a?auto=format&fit=crop&w=1200&q=80',
+    image:
+      'https://images.unsplash.com/photo-1513885535751-8b9238bd345a?auto=format&fit=crop&w=1200&q=80',
     link: 'https://partners.coupang.com/',
   },
   {
@@ -94,7 +97,8 @@ const PRODUCTS = [
     price: '2만~5만원대',
     reason: '공부하거나 일할 때 만족도가 높은 책상템',
     tags: ['공부', '집중', '책상'],
-    image: 'https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1200&q=80',
+    image:
+      'https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1200&q=80',
     link: 'https://partners.coupang.com/',
   },
   {
@@ -104,7 +108,8 @@ const PRODUCTS = [
     price: '1만~3만원대',
     reason: '귀엽고 반응 좋은 어린이용 추천템',
     tags: ['어린이', '귀여움', '놀이'],
-    image: 'https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=1200&q=80',
+    image:
+      'https://images.unsplash.com/photo-1516627145497-ae6968895b74?auto=format&fit=crop&w=1200&q=80',
     link: 'https://partners.coupang.com/',
   },
   {
@@ -114,7 +119,8 @@ const PRODUCTS = [
     price: '1만~5만원대',
     reason: '심심할 때 만족감 높은 가벼운 추천',
     tags: ['놀이', '재미', '랜덤'],
-    image: 'https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=1200&q=80',
+    image:
+      'https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=1200&q=80',
     link: 'https://partners.coupang.com/',
   },
   {
@@ -124,7 +130,8 @@ const PRODUCTS = [
     price: '1만~4만원대',
     reason: '회사에서 보기 좋고 실용적인 사무용 추천',
     tags: ['회사', '깔끔', '실용'],
-    image: 'https://images.unsplash.com/photo-1497366412874-3415097a27e7?auto=format&fit=crop&w=1200&q=80',
+    image:
+      'https://images.unsplash.com/photo-1497366412874-3415097a27e7?auto=format&fit=crop&w=1200&q=80',
     link: 'https://partners.coupang.com/',
   },
   {
@@ -134,7 +141,8 @@ const PRODUCTS = [
     price: '2만~6만원대',
     reason: '운동 시작할 때 무난하게 고르기 좋은 추천',
     tags: ['운동', '입문', '실용'],
-    image: 'https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1200&q=80',
+    image:
+      'https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1200&q=80',
     link: 'https://partners.coupang.com/',
   },
   {
@@ -144,7 +152,8 @@ const PRODUCTS = [
     price: '1만~3만원대',
     reason: '여행 갈 때 깔끔하게 챙기기 좋은 필수템',
     tags: ['여행', '정리', '깔끔'],
-    image: 'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80',
+    image:
+      'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80',
     link: 'https://partners.coupang.com/',
   },
   {
@@ -154,7 +163,8 @@ const PRODUCTS = [
     price: '랜덤',
     reason: '고르기 귀찮을 때 그냥 눌러보는 재미용 추천',
     tags: ['랜덤', '재미', '추천'],
-    image: 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80',
+    image:
+      'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80',
     link: 'https://partners.coupang.com/',
   },
   {
@@ -164,7 +174,8 @@ const PRODUCTS = [
     price: '2만~4만원대',
     reason: '예쁘고 분위기 있는 스타일을 원할 때 잘 맞음',
     tags: ['감성', '예쁨', '분위기'],
-    image: 'https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80',
+    image:
+      'https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80',
     link: 'https://partners.coupang.com/',
   },
   {
@@ -174,7 +185,8 @@ const PRODUCTS = [
     price: '2만~5만원대',
     reason: '가볍게 만족도 높은 전자제품 추천',
     tags: ['전자', '유용', '인기'],
-    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80',
+    image:
+      'https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80',
     link: 'https://partners.coupang.com/',
   },
 ]
@@ -194,7 +206,22 @@ function getTopCategories(scoreMap) {
   if (hasRandom) return ['random', 'pretty', 'gadget']
 
   return Object.entries(scoreMap)
-    .filter(([key]) => !['budgetLow', 'budgetMid', 'budgetMidHigh', 'budgetHigh', 'cheap', 'balanced', 'premium', 'simple', 'flashy', 'cute', 'useful'].includes(key))
+    .filter(
+      ([key]) =>
+        ![
+          'budgetLow',
+          'budgetMid',
+          'budgetMidHigh',
+          'budgetHigh',
+          'cheap',
+          'balanced',
+          'premium',
+          'simple',
+          'flashy',
+          'cute',
+          'useful',
+        ].includes(key)
+    )
     .sort((a, b) => b[1] - a[1])
     .slice(0, 3)
     .map(([key]) => key)
@@ -208,118 +235,105 @@ function pickFeaturedProducts(result) {
 export default function App() {
   const [step, setStep] = useState(0)
   const [answers, setAnswers] = useState([])
-  const [selectedLabel, setSelectedLabel] = useState('')
 
   const currentQuestion = QUESTIONS[step]
   const isFinished = answers.length === QUESTIONS.length
 
   const result = useMemo(() => {
     if (!isFinished) return null
-
     const scoreMap = calculateScores(answers)
     const topCategories = getTopCategories(scoreMap)
-
     const matchedProducts = PRODUCTS.filter((product) =>
       topCategories.includes(product.category)
     ).slice(0, 6)
-
-    return {
-      scoreMap,
-      topCategories,
-      matchedProducts,
-    }
+    return { scoreMap, topCategories, matchedProducts }
   }, [answers, isFinished])
 
   const featuredProducts = pickFeaturedProducts(result)
 
   const handleSelect = (option) => {
-    setSelectedLabel(option.label)
-    const nextAnswers = [...answers, option]
-    setAnswers(nextAnswers)
-    setTimeout(() => {
-      setSelectedLabel('')
-      setStep((prev) => prev + 1)
-    }, 180)
+    setAnswers([...answers, option])
+    setStep(step + 1)
   }
 
   const handleReset = () => {
     setStep(0)
     setAnswers([])
-    setSelectedLabel('')
   }
 
   return (
     <div className="page">
-      <div className="container">
-        <header className="hero">
-          <h1>큐엔픽</h1>
-          <p>질문으로 원하는 쿠팡템 찾기</p>
-        </header>
+      <div className="top">
+        <h1>큐엔픽</h1>
+        <p>질문으로 원하는 쿠팡템 찾기</p>
+      </div>
 
-        <section className="question-card">
-          <div className="question-top">
-            <div>
-              <p className="status">{isFinished ? '추천 완료' : `질문 ${step + 1} / ${QUESTIONS.length}`}</p>
-              <h2>{isFinished ? '당신한테 맞는 추천 결과' : currentQuestion.title}</h2>
-              {!isFinished && <p className="subtitle">{currentQuestion.subtitle}</p>}
+      <div className="question-box">
+        <div className="question-head">
+          <div>
+            <div className="small-text">
+              {isFinished ? '추천 완료' : `질문 ${step + 1} / ${QUESTIONS.length}`}
             </div>
-            <button className="reset-button" onClick={handleReset}>다시하기</button>
+            <h2>{isFinished ? '당신한테 맞는 추천 결과' : currentQuestion.title}</h2>
+            {!isFinished && <p>{currentQuestion.subtitle}</p>}
           </div>
+          <button className="reset-btn" onClick={handleReset}>
+            다시하기
+          </button>
+        </div>
 
-          {!isFinished ? (
-            <div className="options-grid">
-              {currentQuestion.options.map((option) => {
-                const active = selectedLabel === option.label
-                return (
-                  <button
-                    key={option.label}
-                    onClick={() => handleSelect(option)}
-                    className={`option-button ${active ? 'active' : ''}`}
-                  >
-                    {option.label}
-                  </button>
-                )
-              })}
-            </div>
-          ) : (
-            <div className="results-grid">
-              {result?.matchedProducts.map((product, index) => (
-                <article key={product.id} className="result-card">
-                  <div className="result-image-wrap">
-                    <img src={product.image} alt={product.name} className="result-image" />
-                  </div>
-                  <div className="result-header">
+        {!isFinished ? (
+          <div className="option-grid">
+            {currentQuestion.options.map((option) => (
+              <button
+                key={option.label}
+                className="option-btn"
+                onClick={() => handleSelect(option)}
+              >
+                {option.label}
+              </button>
+            ))}
+          </div>
+        ) : (
+          <div className="result-grid">
+            {result?.matchedProducts.map((product, index) => (
+              <div className="card" key={product.id}>
+                <img src={product.image} alt={product.name} />
+                <div className="card-body">
+                  <div className="badge-row">
                     <span className="badge">추천 {index + 1}</span>
                     <span className="price">{product.price}</span>
                   </div>
                   <h3>{product.name}</h3>
-                  <p className="reason">{product.reason}</p>
-                  <div className="tags">
+                  <p>{product.reason}</p>
+                  <div className="tag-row">
                     {product.tags.map((tag) => (
-                      <span key={tag} className="tag">#{tag}</span>
+                      <span className="tag" key={tag}>
+                        #{tag}
+                      </span>
                     ))}
                   </div>
-                  <a href={product.link} target="_blank" rel="noreferrer" className="cta green">
-                    쿠팡에서 보기
+                  <a href={product.link} target="_blank" rel="noreferrer">
+                    <button className="buy-btn">쿠팡에서 보기</button>
                   </a>
-                </article>
-              ))}
-            </div>
-          )}
-        </section>
+                </div>
+              </div>
+            ))}
+          </div>
+        )}
+      </div>
 
-        <section className="featured-grid">
-          {featuredProducts.map((product) => (
-            <article key={product.id} className="featured-card">
-              <p className="featured-label">쿠팡파트너스</p>
-              <h3>오늘 가장 잘 나가는 추천</h3>
-              <p className="featured-name">{product.name}</p>
-              <a href={product.link} target="_blank" rel="noreferrer" className="cta white">
-                보러가기
-              </a>
-            </article>
-          ))}
-        </section>
+      <div className="featured-grid">
+        {featuredProducts.map((product) => (
+          <div className="featured-card" key={product.id}>
+            <p className="featured-label">쿠팡파트너스</p>
+            <h3>오늘 가장 잘 나가는 추천</h3>
+            <p>{product.name}</p>
+            <a href={product.link} target="_blank" rel="noreferrer">
+              <button className="featured-btn">보러가기</button>
+            </a>
+          </div>
+        ))}
       </div>
     </div>
   )
